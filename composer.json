@@ -1,0 +1,13 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    },
+    "autoload": {
+        "psr-4": {
+            "Models\\": "src/",
+            "AuthManager\\": "src/",
+            "Manager\\": "src/",
+            "Interfaces\\": "src/"
+        }
+    }
+}

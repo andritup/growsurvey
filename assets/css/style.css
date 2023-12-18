@@ -1,0 +1,19 @@
+#landing {
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(to right, orange, yellow);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#landing img {
+    width: 100%;
+}
+
+#landing .btn {
+    background-image: linear-gradient(to right, #3d0fd6, darkblue);
+}
+
+#landing h1 {
+    color: #333;
+}
+
